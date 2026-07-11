@@ -35,13 +35,17 @@ const najeem = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📿 Ayah &nbsp;<img src="https://img.shields.io/badge/LIVE-iOS%20+%20Android-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/👥%202%2C100%2B%20users-8b5cf6?style=flat-square" /></h3>
+      <h3>📿 Ayah &nbsp;<img src="https://img.shields.io/badge/👥%202%2C100%2B%20users-8b5cf6?style=flat-square" /></h3>
       <p>Point your camera at <i>anything</i> → learn its Arabic word → see how it connects to the Qur'an.</p>
       <ul>
         <li>👁️ On-device <b>computer vision</b> (Apple Vision · MobileSAM)</li>
         <li>🎙️ Real-time <b>AI speaking tutor</b> (voice + camera)</li>
         <li>🧩 Adaptive SRS over a <b>77k-word</b> Qur'an corpus</li>
       </ul>
+      <a href="https://getayah.com"><img src="https://img.shields.io/badge/getayah.com-8b5cf6?style=flat-square&logo=safari&logoColor=white" alt="Ayah landing page" /></a>
+      <a href="https://apps.apple.com/us/app/ayah-learn-quranic-arabic/id6761542777"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="Download Ayah on the App Store" /></a>
+      <a href="https://play.google.com/store/apps/details?id=com.getayah.android&hl=en"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get Ayah on Google Play" /></a>
+      <br/><br/>
       <code>SwiftUI</code> <code>Jetpack Compose</code> <code>Supabase</code> <code>Claude</code>
     </td>
     <td width="50%" valign="top">
