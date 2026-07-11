@@ -1,105 +1,126 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1f2937,100:0ea5e9&text=Najeem%20Shaik&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20%40%20UBC%20%E2%80%A2%20Full-Stack%20%2B%20AI%20Builder&descSize=18&descAlignY=58" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=0,2,12,20,30&text=Najeem%20Shaik&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=36&desc=I%20turn%20wild%20ideas%20into%20apps%20real%20people%20actually%20use&descSize=17&descAlignY=56" width="100%" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/najeemshaik">
-    <img src="https://img.shields.io/badge/GitHub-najeemshaik-111827?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/najeemshaik">
-    <img src="https://img.shields.io/badge/LinkedIn-najeemshaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:najeemshaik.eng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/najeemshaik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/najeemshaik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:najeemshaik.eng@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=najeemshaik&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Building+AI-powered+products+that+ship;Computer+Vision+%7C+Full-Stack+%7C+iOS+%7C+Systems;1st+Place+UBC+Hackathon+%E2%80%A2+Engineering+Intern+at+Finning+Canada" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=1000&lines=I+ship+AI+products+to+real+users+%F0%9F%9A%80;Computer+vision+that+runs+in+your+pocket+%F0%9F%93%B8;1st+place+UBC+Hackathon+%F0%9F%8F%86;Electrical+engineer+who+refuses+to+stay+in+one+lane+%E2%9A%A1" alt="typing" />
 </p>
 
-## About Me
+<br/>
 
-- BASc Electrical Engineering student at the University of British Columbia
-- Built and deployed AI + full-stack apps across iOS, web, and backend systems
-- Interested in product engineering, applied AI, and systems that solve real-world workflow problems
+## 🧠 whoami
 
-## Featured Projects
+```typescript
+const najeem = {
+  role:        "EE @ UBC, but I live in the software layer",
+  currently:   "shipping AI apps to App Store + Google Play",
+  superpower:  "0 → shipped product, solo",
+  loves:       ["computer vision", "clean UX", "systems that just work"],
+  fuelledBy:   ["a suspicious number of side projects"],
+  motto:       "if it's not shipped, it's not real",
+};
+```
+
+<br/>
+
+## 🚀 stuff I've built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Closia (AI Fashion Platform)</h3>
+      <h3>📿 Ayah &nbsp;<img src="https://img.shields.io/badge/LIVE-iOS%20+%20Android-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/👥%202%2C100%2B%20users-8b5cf6?style=flat-square" /></h3>
+      <p>Point your camera at <i>anything</i> → learn its Arabic word → see how it connects to the Qur'an.</p>
       <ul>
-        <li>Shipped SwiftUI + Supabase iOS app through TestFlight.</li>
-        <li>Trained a 294-class model on 400k images with high detection performance.</li>
-        <li>Built Python inference + vector search pipeline for scalable outfit discovery.</li>
+        <li>👁️ On-device <b>computer vision</b> (Apple Vision · MobileSAM)</li>
+        <li>🎙️ Real-time <b>AI speaking tutor</b> (voice + camera)</li>
+        <li>🧩 Adaptive SRS over a <b>77k-word</b> Qur'an corpus</li>
       </ul>
+      <code>SwiftUI</code> <code>Jetpack Compose</code> <code>Supabase</code> <code>Claude</code>
     </td>
     <td width="50%" valign="top">
-      <h3>Queuo (AI Restaurant Queue)</h3>
+      <h3>👗 Closia &nbsp;<img src="https://img.shields.io/badge/TestFlight-0A84FF?style=flat-square" /></h3>
+      <p>AI fashion platform that actually understands your closet.</p>
       <ul>
-        <li>1st place at UBC Hackathon.</li>
-        <li>Built real-time queue intelligence using YOLOv8 + WebSockets.</li>
-        <li>Implemented voice reservation workflow with Web Speech API + Gemini.</li>
+        <li>🧠 <b>294-class</b> model trained on <b>400k</b> images</li>
+        <li>🔎 Python inference + <b>vector search</b> for outfit discovery</li>
+        <li>📱 Shipped end-to-end on iOS</li>
       </ul>
+      <code>SwiftUI</code> <code>Supabase</code> <code>PyTorch</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>NeuralDrive</h3>
+      <h3>🍽️ Queuo &nbsp;<img src="https://img.shields.io/badge/🏆%201st%20Place-f59e0b?style=flat-square" /></h3>
+      <p>Real-time restaurant queue intelligence. Built at a hackathon, won the whole thing.</p>
       <ul>
-        <li>Developed visual-inertial SLAM and perception workflows.</li>
-        <li>Built CNN-based traffic sign classification system in Python.</li>
+        <li>⚡ <b>YOLOv8 + WebSockets</b> live queue tracking</li>
+        <li>🗣️ Voice reservations (Web Speech + Gemini)</li>
       </ul>
+      <code>Python</code> <code>YOLOv8</code> <code>WebSockets</code>
     </td>
     <td width="50%" valign="top">
-      <h3>Tremor Monitoring Dashboard</h3>
+      <h3>🚗 NeuralDrive & 📊 Tremor Dashboard</h3>
+      <p>The "can I actually build hardware+ML?" era.</p>
       <ul>
-        <li>Built Web Bluetooth telemetry stream for live IMU data.</li>
-        <li>Implemented FFT analysis for tremor frequency and signal metrics.</li>
+        <li>🛰️ Visual-inertial <b>SLAM</b> + CNN traffic-sign classifier</li>
+        <li>📡 <b>Web Bluetooth</b> IMU telemetry + live <b>FFT</b> analysis</li>
       </ul>
+      <code>Python</code> <code>OpenCV</code> <code>Web Bluetooth</code>
     </td>
   </tr>
 </table>
 
-## Tech Stack
+<br/>
+
+## 🛠️ the toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,swift,java,cpp,react,nextjs,nodejs,tailwind,supabase,postgres,sqlite,pytorch,aws,docker,linux,bash,git&perline=9" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,python,typescript,cpp,react,nextjs,nodejs,tailwind,supabase,postgres,pytorch,aws,docker,linux,git&perline=8" alt="skills" />
 </p>
 
-## GitHub Analytics
+<br/>
+
+## 📊 the receipts
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=najeemshaik&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najeemshaik&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=najeemshaik&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=8b5cf6&title_color=8b5cf6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najeemshaik&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&title_color=8b5cf6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=najeemshaik&theme=transparent&hide_border=true&ring=0EA5E9&fire=F59E0B&currStreakLabel=0EA5E9" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=najeemshaik&theme=tokyonight&hide_border=true&ring=8b5cf6&fire=f59e0b&currStreakLabel=8b5cf6" alt="streak" />
 </p>
 
-## Contribution Animation
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=najeemshaik&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+</p>
+
+<br/>
+
+## 🐍 watch the snake eat my commits
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najeemshaik/najeemshaik/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najeemshaik/najeemshaik/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/najeemshaik/najeemshaik/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/najeemshaik/najeemshaik/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-## Current Focus
-
-- AI product engineering workflows
-- Computer vision systems in production-style pipelines
-- Better backend architecture and performance tuning
+<br/>
 
 <p align="center">
-  Open to internships, collaborations, and ambitious builds.
+  <b>💬 Got an ambitious build? An internship? A bug you can't kill?</b><br/>
+  <em>My inbox is open. Let's make something that ships.</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,45:1f2937,100:0f172a" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,12,20,30" width="100%" alt="footer" />
 </p>
